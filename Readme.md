@@ -21,7 +21,7 @@
 
 
 
-[![hlachkar's 42 stats](https://badge.mediaplus.ma/binary/hlachkar?1337Badge=off)](https://github.com/oakoudad/badge42)
+[![hlachkar's 42 stats](https://badge.mediaplus.ma/colorfulwaves/hlachkar?1337Badge=on)](https://github.com/oakoudad/badge42)
 
 
 
