@@ -16,7 +16,7 @@
 - 📫 How to reach me **hamza.lachkar@student.1337.ma**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/in/hamza-lachqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/hamza-lachqar" height="30" width="40" /></a>
 </p>
 <p align="left"><a href="mailto:newlachkarhamza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" /></a></p>
